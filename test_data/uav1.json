@@ -1,0 +1,11 @@
+{
+  "waypointLists": [
+    [
+      [4.5, -2.5],
+      [-4.5, 0.5]
+    ]
+  ],
+  "altitude": 200,
+  "speed": 1,
+  "noflyZones": []
+}
